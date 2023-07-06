@@ -1,4 +1,1 @@
-
-
-
 readme shell basics
